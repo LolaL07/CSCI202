@@ -1,0 +1,55 @@
+
+body {
+    line-height: 200%;
+    margin: 0;
+}
+
+#bg {
+    position: relative;
+    display: block;
+    background-image: url(bg1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: auto;
+    text-align: center;
+    transition: background-image ease;
+}
+
+#title img {
+        size: 40%;
+        height: 150px;
+        width: auto;
+        padding-top: 75px;
+}
+#title img:hover {
+    transform: scale(1.05);
+    transition: all 0.5s;
+}
+
+#flowers {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    /* display: none; */
+    img { 
+        size: 100%;
+        width: 100%;
+        height: auto;
+        
+        /* aspect-ratio: 9 / 1; */
+    }
+} 
+
+footer {
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #3581c8;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
