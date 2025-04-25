@@ -1,0 +1,63 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family:'Courier New', Courier, monospace;
+  color: black;
+  background-color: #93c4d0;
+}
+
+canvas {
+  display: block;
+}
+#content {
+  margin: auto;
+  width: 70%;
+  padding: 40px 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  padding-bottom: 50px;
+}
+
+#painting {
+  align-self: center;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+nav ul {
+  color: black;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 2.5em;
+  /* padding: 0 145px; */
+  a {
+    text-decoration: none;
+    color: black;
+
+  }
+  a:hover {
+    text-decoration: underline;
+    transition: all 0.5s;
+  }
+  /* a:active {
+    text-decoration: underline;
+  } */
+}
