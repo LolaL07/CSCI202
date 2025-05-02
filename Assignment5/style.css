@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    padding: 30px 0;
+    color: #F5F5F2;
+    background-color: #3B2A3C;
+}
+
+body {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+ #content-wrapper {
+    width: 75%;
+    margin: auto;
+    img {
+        border-radius: 5px;
+    }
+ }
+
+ .container {
+    padding: 15px 0;
+    margin-bottom: 10px;
+    border: 4px solid #A397B6;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+ }
+
+ .intro {
+    padding: 25px;
+    color: #3B2A3C;
+ }
+
+ .reveal {
+    border: none;
+    padding: 10px 15px;
+    /* margin: 10px; */
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-weight: 400;
+    background-color: #A397B6;
+    color: #fff;
+    border-radius: 6px;
+ }
+
+ .caption {
+    text-align: center;
+    font-weight: 300;
+    display: none;
+ }
+
+ /* F01267 */
+ /* F15B56 */
+ /* F4D85C */
+ /* 45D3BC */
+ /* 0DDADA */
+
+ /* actual colors */
+/* 3B2A3C - dark purple */
+/* F5F5F2 - white */
+/* F8D960 - yellow */
+/* f95672 - pink */
+/* A397B6 - dusty purple */

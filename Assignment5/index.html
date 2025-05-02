@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="script.js"></script>
+
+    <title>Photo Hunt</title>
+</head>
+<body>
+    <header>
+        <h1>Photo Scavenger Hunt</h1>
+    </header>
+    <div class="intro">
+        <h2>How it works</h2>
+        <p>This is a picture scavenger hunt. Your goal is to find where each of the photos below have been taken and recreate them. The ones you see below are zoomed in versions of the originals. Each image contains or was taken at a landmark somewhere within the vicinity of the lawn surrounding the paths between the Fairhaven buildings and the Academic Instructional Center building. When you think you've found it, press reveal to see where the original photos were taken.</p>
+    </div>
+
+    <div id="content-wrapper">
+        <!-- image 1 -->
+        <div class="container">
+            <img class="img-fluid" id="img1" src="images/img1.jpeg" alt="testImg">
+            <button class="reveal" id="img1button" onclick="imgReveal('img1')">Reveal</button>
+            <p class="caption" id="img1caption">This photo was taken from the rock rings sculpture facing southwest.</p>
+        </div>
+        <!-- image 2 -->
+        <div class="container">
+            <img class="img-fluid" id="img2" src="images/img2.jpeg" alt="testImg">
+            <button class="reveal" id="img2button" onclick="imgReveal('img2')">Reveal</button>
+            <p class="caption" id="img2caption">This is a photo of the sculpture titled "Manus" by Magdalena Abakanowicz, facing southwest towards the parking lots.</p>
+        </div>
+        <!-- image 3 -->
+        <div class="container">
+            <img class="img-fluid" id="img3" src="images/img3.jpeg" alt="testImg">
+            <button class="reveal" id="img3button" onclick="imgReveal('img3')">Reveal</button>
+            <p class="caption" id="img3caption">This picture is of the sculpture by John Keppelman and is named "Garapata", facing towards the Arb.</p>
+        </div>
+        <!-- image 4 -->
+        <div class="container">
+            <img class="img-fluid" id="img4" src="images/img4.jpeg" alt="testImg">
+            <button class="reveal" id="img4button" onclick="imgReveal('img4')">Reveal</button>
+            <p class="caption" id="img4caption">This photo is the Untitled (Steam Work) art piece by Robert Morris in the center of the lawn.</p>
+        </div>
+        <!-- image 5 -->
+        <div class="container">
+            <img class="img-fluid" id="img5" src="images/img5.jpeg" alt="testImg">
+            <button class="reveal" id="img5button" onclick="imgReveal('img5')">Reveal</button>
+            <p class="caption" id="img5caption">This is image was taken of the out rock rings wall, near the southwest window.</p>
+        </div>
+        <!-- image 6 -->
+        <div class="container">
+            <img class="img-fluid" id="img6" src="images/img6.jpeg" alt="testImg">
+            <button class="reveal" id="img6button" onclick="imgReveal('img6')">Reveal</button>
+            <p class="caption" id="img6caption">This photo is of graffiti on the wall of the tunnel that leads to the fairhaven common building and dorms.</p>
+        </div>
+        <!-- image 7 -->
+        <div class="container">
+            <img class="img-fluid" id="img7" src="images/img7.jpeg" alt="testImg">
+            <button class="reveal" id="img7button" onclick="imgReveal('img7')">Reveal</button>
+            <p class="caption" id="img7caption">This is a photo of the rec center and the Untitiled art piece by Donald Judd outside it, taken from the path between the road and the rock rings.</p>
+        </div>
+    </div>
+</body>
+</html>
