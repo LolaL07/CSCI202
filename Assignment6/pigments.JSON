@@ -134,13 +134,13 @@
     },
     {   "name": "Bone Black", "color":"Black", "code": "PBk9",
         "source":"Inorganic", "natural":true , "fugitive":null,
-        "image": " ",
+        "image": "images/PBk9.jpg",
         "otherNames": "Ivory Black, Animal Black",
         "text": "This color is a warm brownish black. It has its name because it produced from calcined charred animal bones. Sometimes, it is called ivory black, although that pigment was historically made from animal ivory. Since ivory was banned, the terms have become interchangeably used to mean this pigment."
     },
     {   "name": "Lamp Black", "color":"Black", "code": "PBk7",
         "source":"Inorganic", "natural":null , "fugitive":null,
-        "image": " ",
+        "image": "images/PBk7.jpg",
         "otherNames": "Flame Black, Charcoal Black",
         "text": "This pigment is derived from soot that is made by burning oil and other organic combustible. It is made almost entirely of pure carbon and some other unburned impurities. It is a very stable and lightfast pigment that has a deep brown black color. It has been used historically since prehistoric times, making it one of the oldest pigments."
     }
