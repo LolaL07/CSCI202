@@ -1,0 +1,148 @@
+[
+    {   "name": "Cochineal", "color":"Red", "code": "NR4",
+        "source":"Organic", "natural":true , "fugitive":true,
+        "image":"images/NR4.webp",
+        "otherNames": "Carmine",
+        "text":"This pigment is derived from the dried bodies of female cochineal insects found on cacti in South America. It shows as a deep dark to mid colored red and has been used for dyes and paints as early as 700 B.C. It is quite fugitive and unstable, fading even in incandescent light."
+    },
+    {   "name": "Alizarin Crimson", "color":"Red", "code": "PR83",
+        "source":"Organic", "natural":true , "fugitive":null,
+        "image": "images/NR8.jpg",
+        "otherNames": "Alizarin Red, Madder Lake, Rose Madder",
+        "text":"This pigment is derived from the madder plant Rubia tinctorum along with the natural pigments NR8 and NR9. They get their color from the anthraquinone and purpurin in the plants' roots. It shows as a blue-leaning deep red  but can range from a reddish-purple to red-brown and is often used as a dye."
+    },
+    {   "name": "Cadmium Red", "color":"Red", "code": "PR108",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PR108.webp",
+        "otherNames": "Cadmium Vermilion Red, Cadmium Orange Red",
+        "text":"This pigment is usually made of cadmium sulfoselenide by combining solutions of a cadmium salt with sodium selenide and sodium sulfide. This is also to how cadmium orange is made, with the sulfide to selenide proportion adjusted. The color shows as a vibrant warm red color and has been used since around 1804. It is slightly toxic and can be dangerous is inhaled as a dust or powder but is safe when processed into paint."
+    },
+    {   "name": "Perylene Maroon", "color":"Red", "code": "PR179",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PR179.jpg",
+        "otherNames": "Madder Deep (hue), Perylene Crimson",
+        "text": "This pigment is a synthetic organic derivative of perylene. Other perylene pigments include Perylene Green and Perylene Red. This colors is a dull violet red with excellent lightfastness."
+    },
+    {   "name": "Quinacridone Gold", "color":"Orange", "code": "PO49",
+        "source":"organic", "natural":null , "fugitive":null,
+        "image": "images/PO49.jpg",
+        "otherNames": "Red Gold, Deep Gold, Golden Lake",
+        "text": "This synthetic organic pigment has a deep saturated golden yellow orange color. It has been discontinued since the manufacturer stopped production in 2001. Now, the color only exists in replicated mixes due to lack of supply"
+    },
+    {   "name": "Yellow Ochre", "color":"Yellow", "code": "PY43",
+        "source":"Inorganic", "natural":true , "fugitive":null,
+        "image": "images/PY43.jpg",
+        "otherNames": "Yellow Earth, Italian Ochre, Natural Yellow Iron Oxide" ,
+        "text": "This pigments has duller reddish yellow color. It is made from hydrated iron oxide from a combination of iron-containing minerals in earth and clay. Yellow ochre is a very stable and long lasting pigment that has been used since prehistoric times."
+    },
+    {   "name": "Naples Yellow", "color":"Yellow", "code": "PY41",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PY41.jpg",
+        "otherNames": "Lead Antimoniate Yellow, Antimony Yellow",
+        "text": "This pigments shows as light pale yellow ranging from bright greenish to red yellow. Because of its unique color, it is difficult to replicate in mixes. It can be quite toxic and should not be sprayed, airbrush, or inhaled due to the lead it contains. The name comes from land near the city Naples in Italy where it was thought to have come from, but its actually one of the earliest synthetic pigments used in ancient Egypt and Mesopotamia."
+    },
+    {   "name": "Hansa Yellow Light", "color":"Yellow", "code": "PY3",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PY3.jpg",
+        "otherNames": "Arylide Yellow, Permanent Yellow Lemon, Helio Yellow, Monoazo Yellow",
+        "text": "This pigment has a bright lemon yellow color with green undertones. It is a synthetically made organic monoazo compound. It has been in use since the early 1910s when it was invented and has become a very commonly used cool yellow paint, often replacing the partially toxic cadmium yellow PY35."
+    },
+    {   "name": "Gamboge", "color":"Yellow", "code": "NY24",
+        "source":"Organic", "natural":true , "fugitive":null,
+        "image": "images/NY24.jpg",
+        "otherNames": "Gambogium, Camboge, Gum Gutte, Natural Gamboge",
+        "text": "This pigment is derived from the yellow-orange resin of Garcinia trees native to East and Southeast Asia. It has been in use since the 8th century. The pigment has a bright orangish-yellow color. It has now been discontinued since 2005 due to its toxicity, fugitivity, and trouble sourcing it."
+    },
+    {   "name": "Viridian", "color":"Green", "code": "PG18",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PG18.jpg",
+        "otherNames": "Emeraude Green",
+        "text": "This pigment has a mid bluish green color. It is a synthetically made pigment of hydrated chromium oxide. It is one of the most common green paints, especially in watercolors."
+    },
+    {   "name": "Phthalo Green (Yellow Shade)", "color":"Green", "code": "PG36",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PG36.jpg",
+        "otherNames": "Phthalocyanine Green YS, Helio Green, Bamboo Green",
+        "text": "This is an intense green with yellow undertones. It is made of chlorinated or bromated copper phthalocyanine. This is a another common green pigment with excellent lightfastness and a strong color."
+    },
+    {   "name": "Prussian Blue", "color":"Blue", "code": "PB27",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PB27.jpg",
+        "otherNames": "Antwerp Blue, Milori Blue, Paris Blue, Iron Blue",
+        "text": "This color is deep dull blue with green undertones. It is made by the oxidation of ferrous ferrocyanide salts. It is unique because even though it is fugitive, it can recover from fading if allowed to reoxidize away from light. It is one of the first synthetic inorganic pigments and has been widely used in historical paintings since 1704 until the modern color phthalo blue (PB15) was made."
+    },
+    {   "name": "Ultramarine", "color":"Blue", "code": "PB29",
+        "source":"Inorganic", "natural":true , "fugitive":null,
+        "image": "images/PB29.jpg",
+        "otherNames": "French Ultramarine, Lapis Lazuli",
+        "text": "This pigment has a bright violet blue color. Natural ultramarine is made from lapis lazuli mineral, but it has also been made synthetically since 1828."
+    },
+    {   "name": "Cerulean Blue", "color":"Blue", "code": "PB35",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PB35.jpg",
+        "otherNames": "Cobalt Tin Blue",
+        "text": "This pigment has a light to mid greenish sky blue color. It is made of cobalt tin oxide. It was first invented in 1805"
+    },
+    {   "name": "Phthalo Blue", "color":"Blue", "code": "PB15",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PB15.jpg",
+        "otherNames": "Phthalocyanine Blue",
+        "text": "This color is an intense blue that can range from turquoise blues to violet blues. In paints it is found in either 'green shade' varieties or 'red shade' varieties. It is a synthetically made organic pigment made of copper phthalocyanine. "
+    },
+    {   "name": "Tyrian Purple", "color":"Violet", "code": "NV1",
+        "source":"Organic", "natural":true , "fugitive":null,
+        "image": "images/NV1.jpg",
+        "otherNames": "Imperial Purple, Royal Purple",
+        "text": "This pigment is a dye made from the mucus glands of Murex sea snails. Over 10,000 snails are used to make 1 gram of dye. It has been used since before 1800 BC in the Mediterranean. It's color ranges from deep reddish to bluish purples. Because of its rarity, it is quite expensive and rarely used."
+    },
+    {   "name": "Dioxazine Violet", "color":"Violet", "code": "PV23",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PV23.jpg",
+        "otherNames": "Dioxazine Purple,",
+        "text": "This pigment is deep purple that has both blue and red shades. It is made from a synthetic organic compound. It has very good lightfastness."
+    },
+    {   "name": "Quinacridone Violet", "color":"Violet", "code": "PV19",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PV19.jpg",
+        "otherNames": "Quinacridone Rose, Permanent Magenta",
+        "text": "This pigment has a vivid red purple color. It is made from a synthetic organic compound and is often used as coloring for industrial paints and coloring."
+    },
+    {   "name": "Ultramarine Violet", "color":"Violet", "code": "PV15",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PV15.jpg",
+        "otherNames": "Ultra Violet, Ultramarine Pink",
+        "text": "This pigment is produced by combining and heating ultramarine blue and ammonium chloride. It's red shade is then made by heating it again with hydrochloric acid gas. The color of this pigment ranges from a cool mid purple to magenta color"
+    },
+    {   "name": "Quinacridone Magenta", "color":"Violet", "code": "PR122",
+        "source":"Organic", "natural":null , "fugitive":null,
+        "image": "images/PR122.jpg",
+        "otherNames": "Opera Rose, Magenta",
+        "text": " This synthetic organic pigment is a variation of the multiple quinacridone pigments that are made by combining acridone and quinoline. It has a vibrant red violet color and is the most blue quinacridone color."
+    },
+
+    {   "name": "Zinc White", "color":"White", "code": "PW4",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PW4.jpg",
+        "otherNames": "Chinese White, Snow White, Mixing White",
+        "text": "This pigment is derived from the inorganic compound zin oxide, often as a byproduct of smelting copper. It can be found naturally in the mineral zincite with reddish manganese impurities. It's quite transparent, mostly being used for mixing colors rather than painting directly on a canvas or page. It has slightly warm undertones."
+    },
+    {   "name": "Titanium WHite", "color":"White", "code": "PW6",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": "images/PW6.jpg",
+        "otherNames": "Titanium Buff, Permanent White",
+        "text": "This pigment is one of the most commonly used whites since it started being produced in the 1910's. It is a very neutral white, with slight blue undertones. It is synthetically made of titanium dioxide, but can be found in minerals like anatase."
+    },
+    {   "name": "Bone Black", "color":"Black", "code": "PBk9",
+        "source":"Inorganic", "natural":true , "fugitive":null,
+        "image": " ",
+        "otherNames": "Ivory Black, Animal Black",
+        "text": "This color is a warm brownish black. It has its name because it produced from calcined charred animal bones. Sometimes, it is called ivory black, although that pigment was historically made from animal ivory. Since ivory was banned, the terms have become interchangeably used to mean this pigment."
+    },
+    {   "name": "Lamp Black", "color":"Black", "code": "PBk7",
+        "source":"Inorganic", "natural":null , "fugitive":null,
+        "image": " ",
+        "otherNames": "Flame Black, Charcoal Black",
+        "text": "This pigment is derived from soot that is made by burning oil and other organic combustible. It is made almost entirely of pure carbon and some other unburned impurities. It is a very stable and lightfast pigment that has a deep brown black color. It has been used historically since prehistoric times, making it one of the oldest pigments."
+    }
+
+]
